@@ -1,0 +1,12 @@
+# Ignore the file with secret keys
+.env
+
+# Ignore the virtual environment folder
+venv/
+
+# Ignore the generated database folder
+chroma_db/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
