@@ -5,11 +5,11 @@ A web-based AI assistant that allows users to upload documents and ask questions
 ## 📸 Screenshots
 
 ### Main Interface - Chat View
-![Chat Interface](Screenshots/screencapture-localhost-8501-2026-01-08-09_03_59.png)
+![Document Indexed](Screenshots/screencapture-localhost-8502-2026-01-08-09_46_03.png)
 *The main chat interface showing document upload area, chat history, and the "Ask" feature. Upload documents using the sidebar and ask questions in the main area.*
 
 ### Document Successfully Indexed
-![Document Indexed](Screenshots/screencapture-localhost-8502-2026-01-08-09_46_03.png)
+![Chat Interface](Screenshots/screencapture-localhost-8501-2026-01-08-09_03_59.png)
 *After uploading and processing a document, it appears in the "Indexed Documents" section. The app shows helpful getting started tips for new users.*
 
 ### Q&A with Source Citations
